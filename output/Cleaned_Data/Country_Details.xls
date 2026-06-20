@@ -1,0 +1,120 @@
+Country Name,Code,Income Group,Region,Lending category,Is_HIPC
+Afghanistan,AFG,Low income,Middle East & North Africa,IDA,Yes
+Albania,ALB,Upper middle income,Europe & Central Asia,IBRD,No
+Algeria,DZA,Upper middle income,Middle East & North Africa,IBRD,No
+Angola,AGO,Lower middle income,Sub-Saharan Africa,IBRD,No
+Argentina,ARG,Upper middle income,Latin America & Caribbean,IBRD,No
+Armenia,ARM,Upper middle income,Europe & Central Asia,IBRD,No
+Azerbaijan,AZE,Upper middle income,Europe & Central Asia,IBRD,No
+Bangladesh,BGD,Lower middle income,South Asia,IDA,No
+Belarus,BLR,Upper middle income,Europe & Central Asia,IBRD,No
+Belize,BLZ,Upper middle income,Latin America & Caribbean,Blend,No
+Benin,BEN,Lower middle income,Sub-Saharan Africa,IDA,Yes
+Bhutan,BTN,Lower middle income,South Asia,IDA,No
+"Bolivia, Plurinational State of",BOL,Lower middle income,Latin America & Caribbean,IBRD,Yes
+Bosnia and Herzegovina,BIH,Upper middle income,Europe & Central Asia,IBRD,No
+Botswana,BWA,Upper middle income,Sub-Saharan Africa,IBRD,No
+Brazil,BRA,Upper middle income,Latin America & Caribbean,IBRD,No
+Burkina Faso,BFA,Low income,Sub-Saharan Africa,IDA,Yes
+Burundi,BDI,Low income,Sub-Saharan Africa,IDA,Yes
+Cabo Verde,CPV,Upper middle income,Sub-Saharan Africa,Blend,No
+Cambodia,KHM,Lower middle income,East Asia & Pacific,IDA,No
+Cameroon,CMR,Lower middle income,Sub-Saharan Africa,Blend,Yes
+Central African Republic,CAF,Low income,Sub-Saharan Africa,IDA,Yes
+Chad,TCD,Low income,Sub-Saharan Africa,IDA,Yes
+China,CHN,Upper middle income,East Asia & Pacific,IBRD,No
+Colombia,COL,Upper middle income,Latin America & Caribbean,IBRD,No
+Comoros,COM,Lower middle income,Sub-Saharan Africa,IDA,Yes
+"Congo, Democratic Republic of",COD,Low income,Sub-Saharan Africa,IDA,Yes
+"Congo, Republic of",COG,Lower middle income,Sub-Saharan Africa,Blend,Yes
+Côte d'Ivoire,CIV,Lower middle income,Sub-Saharan Africa,Blend,Yes
+Djibouti,DJI,Lower middle income,Middle East & North Africa,IDA,No
+Dominica,DMA,Upper middle income,Latin America & Caribbean,Blend,No
+Dominican Republic,DOM,Upper middle income,Latin America & Caribbean,IBRD,No
+Ecuador,ECU,Upper middle income,Latin America & Caribbean,IBRD,No
+"Egypt, Arab Republic of",EGY,Lower middle income,Middle East & North Africa,IBRD,No
+El Salvador,SLV,Upper middle income,Latin America & Caribbean,IBRD,No
+Equatorial Guinea,GNQ,Upper middle income,Sub-Saharan Africa,IBRD,No
+Eritrea,ERI,Low income,Sub-Saharan Africa,IDA,Yes
+Eswatini,SWZ,Lower middle income,Sub-Saharan Africa,Blend,No
+Fiji,FJI,Upper middle income,East Asia & Pacific,Blend,No
+Gabon,GAB,Upper middle income,Sub-Saharan Africa,IBRD,No
+"Gambia, The",GMB,Low income,Sub-Saharan Africa,IDA,Yes
+Georgia,GEO,Upper middle income,Europe & Central Asia,IBRD,No
+Ghana,GHA,Lower middle income,Sub-Saharan Africa,IDA,Yes
+Grenada,GRD,Upper middle income,Latin America & Caribbean,Blend,No
+Guatemala,GTM,Upper middle income,Latin America & Caribbean,IBRD,No
+Guinea,GIN,Lower middle income,Sub-Saharan Africa,IDA,Yes
+Guinea-Bissau,GNB,Low income,Sub-Saharan Africa,IDA,Yes
+Guyana,GUY,High income,Latin America & Caribbean,IDA,Yes
+Haiti,HTI,Lower middle income,Latin America & Caribbean,IDA,Yes
+Honduras,HND,Lower middle income,Latin America & Caribbean,IDA,Yes
+India,IND,Lower middle income,South Asia,IBRD,No
+Indonesia,IDN,Upper middle income,East Asia & Pacific,IBRD,No
+"Iran, Islamic Republic of",IRN,Upper middle income,Middle East & North Africa,IBRD,No
+Iraq,IRQ,Upper middle income,Middle East & North Africa,IBRD,No
+Jamaica,JAM,Upper middle income,Latin America & Caribbean,IBRD,No
+Jordan,JOR,Lower middle income,Middle East & North Africa,IBRD,No
+Kazakhstan,KAZ,Upper middle income,Europe & Central Asia,IBRD,No
+Kenya,KEN,Lower middle income,Sub-Saharan Africa,Blend,No
+Kosovo,XKX,Upper middle income,Europe & Central Asia,IDA,No
+Kyrgyz Republic,KGZ,Lower middle income,Europe & Central Asia,IDA,Yes
+Lao PDR,LAO,Lower middle income,East Asia & Pacific,IDA,No
+Lebanon,LBN,Lower middle income,Middle East & North Africa,IBRD,No
+Lesotho,LSO,Lower middle income,Sub-Saharan Africa,IDA,No
+Liberia,LBR,Low income,Sub-Saharan Africa,IDA,Yes
+Madagascar,MDG,Low income,Sub-Saharan Africa,IDA,Yes
+Malawi,MWI,Low income,Sub-Saharan Africa,IDA,Yes
+Maldives,MDV,Upper middle income,South Asia,IDA,No
+Mali,MLI,Low income,Sub-Saharan Africa,IDA,Yes
+Mauritania,MRT,Lower middle income,Sub-Saharan Africa,IDA,Yes
+Mauritius,MUS,Upper middle income,Sub-Saharan Africa,IBRD,No
+Mexico,MEX,Upper middle income,Latin America & Caribbean,IBRD,No
+Moldova,MDA,Upper middle income,Europe & Central Asia,IBRD,No
+Mongolia,MNG,Upper middle income,East Asia & Pacific,IBRD,No
+Montenegro,MNE,Upper middle income,Europe & Central Asia,IBRD,No
+Morocco,MAR,Lower middle income,Middle East & North Africa,IBRD,No
+Mozambique,MOZ,Low income,Sub-Saharan Africa,IDA,Yes
+Myanmar,MMR,Lower middle income,East Asia & Pacific,IDA,No
+Nepal,NPL,Lower middle income,South Asia,IDA,No
+Nicaragua,NIC,Lower middle income,Latin America & Caribbean,IDA,Yes
+Niger,NER,Low income,Sub-Saharan Africa,IDA,Yes
+Nigeria,NGA,Lower middle income,Sub-Saharan Africa,Blend,No
+North Macedonia,MKD,Upper middle income,Europe & Central Asia,IBRD,No
+Pakistan,PAK,Lower middle income,Middle East & North Africa,Blend,No
+Papua New Guinea,PNG,Lower middle income,East Asia & Pacific,Blend,No
+Paraguay,PRY,Upper middle income,Latin America & Caribbean,IBRD,No
+Peru,PER,Upper middle income,Latin America & Caribbean,IBRD,No
+Philippines,PHL,Lower middle income,East Asia & Pacific,IBRD,No
+Rwanda,RWA,Low income,Sub-Saharan Africa,IDA,Yes
+Samoa,WSM,Upper middle income,East Asia & Pacific,IDA,No
+São Tomé and Principe,STP,Lower middle income,Sub-Saharan Africa,IDA,Yes
+Senegal,SEN,Lower middle income,Sub-Saharan Africa,IDA,Yes
+Serbia,SRB,Upper middle income,Europe & Central Asia,IBRD,No
+Sierra Leone,SLE,Low income,Sub-Saharan Africa,IDA,Yes
+Solomon Islands,SLB,Lower middle income,East Asia & Pacific,IDA,No
+"Somalia, Fed. Rep.",SOM,Low income,Sub-Saharan Africa,IDA,Yes
+South Africa,ZAF,Upper middle income,Sub-Saharan Africa,IBRD,No
+Sri Lanka,LKA,Lower middle income,South Asia,IDA,No
+St. Lucia,LCA,Upper middle income,Latin America & Caribbean,Blend,No
+St. Vincent and the Grenadines,VCT,Upper middle income,Latin America & Caribbean,Blend,No
+Sudan,SDN,Low income,Sub-Saharan Africa,IDA,Yes
+Suriname,SUR,Upper middle income,Latin America & Caribbean,Blend,No
+Syrian Arab Republic,SYR,Low income,Middle East & North Africa,IDA,No
+Tajikistan,TJK,Lower middle income,Europe & Central Asia,IDA,No
+Tanzania,TZA,Lower middle income,Sub-Saharan Africa,IDA,Yes
+Thailand,THA,Upper middle income,East Asia & Pacific,IBRD,No
+Timor-Leste,TLS,Lower middle income,East Asia & Pacific,Blend,No
+Togo,TGO,Low income,Sub-Saharan Africa,IDA,Yes
+Tonga,TON,Upper middle income,East Asia & Pacific,IDA,No
+Tunisia,TUN,Lower middle income,Middle East & North Africa,IBRD,No
+Türkiye,TUR,Upper middle income,Europe & Central Asia,IBRD,No
+Turkmenistan,TKM,Upper middle income,Europe & Central Asia,IBRD,No
+Uganda,UGA,Low income,Sub-Saharan Africa,IDA,Yes
+Ukraine,UKR,Upper middle income,Europe & Central Asia,IBRD,No
+Uzbekistan,UZB,Lower middle income,Europe & Central Asia,Blend,No
+Vanuatu,VUT,Lower middle income,East Asia & Pacific,IDA,No
+Viet Nam,VNM,Lower middle income,East Asia & Pacific,IBRD,No
+"Yemen, Republic of",YEM,Low income,Middle East & North Africa,IDA,No
+Zambia,ZMB,Lower middle income,Sub-Saharan Africa,IDA,Yes
+Zimbabwe,ZWE,Lower middle income,Sub-Saharan Africa,Blend,No
